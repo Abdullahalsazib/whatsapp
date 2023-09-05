@@ -1,0 +1,7 @@
+Teal Green : #128C7E
+
+Teal Green Dark : #075E54
+
+Light Green : #25D366
+
+Blue : #34B7F1

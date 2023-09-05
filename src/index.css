@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;500&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto Slab', serif;
+}
+:root{
+  --tealGreen : #128C7E;
+  --tealGreenDark : #075E54;
+  --lightGreen : #25D366;
+  --blue : #34B7F1;
+}
+a{
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+li {
+  list-style: none;
+}
+button{
+  border: none;
+  outline: none;
+}

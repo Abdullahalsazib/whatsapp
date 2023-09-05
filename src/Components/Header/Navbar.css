@@ -1,0 +1,64 @@
+.main_nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #EEEEEE;
+}
+.navleft{   
+    width: 30%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    /* border-right: 3px solid gray; */
+    justify-content: space-between;
+    background-color: #EEEEEE;
+}
+.navright{
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-inline-start: 10px;
+    background-color: #EEEEEE;
+}
+.logo a > i {
+    background-color: var(--tealGreen);
+    padding: 15px 15px;
+    border-radius: 100%;
+    color: #fff;
+    font-size: 35px;
+}
+.righticons a{
+    margin-inline-start: 50px;
+}
+.state_line{
+    height: 50px;
+    border: 2px solid #AAAAAA;
+}
+.twoIcon{
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.twoIcon a{
+    margin-inline-end: 20px;
+}
+a i{
+    font-size: 35px;
+    color: #AAAAAA;
+}
+a i:hover{
+    font-size: 35px;
+    color: var(--lightGreen);
+}
+a i:focus{
+    font-size: 35px;
+    color: var(--lightGreen);
+}
+.navlogoname{
+    display: flex;
+    align-items: center;
+}
+
